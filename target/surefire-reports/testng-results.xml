@@ -2,46 +2,46 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="29624" started-at="2018-10-12T08:35:38Z" finished-at="2018-10-12T08:36:07Z">
+  <suite name="Surefire suite" duration-ms="92578" started-at="2018-10-12T10:00:48Z" finished-at="2018-10-12T10:02:21Z">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="29624" started-at="2018-10-12T08:35:38Z" finished-at="2018-10-12T08:36:07Z">
+    <test name="Surefire test" duration-ms="92578" started-at="2018-10-12T10:00:48Z" finished-at="2018-10-12T10:02:21Z">
       <class name="MavenDemo.MavenDemo.LogoutTest">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:MavenDemo.MavenDemo.LogoutTest@61f5df]" name="beforeMethod" is-config="true" duration-ms="6063" started-at="2018-10-12T14:06:00Z" finished-at="2018-10-12T14:06:06Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:MavenDemo.MavenDemo.LogoutTest@f6e879]" name="beforeMethod" is-config="true" duration-ms="35154" started-at="2018-10-12T15:31:46Z" finished-at="2018-10-12T15:32:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:MavenDemo.MavenDemo.LogoutTest@61f5df]" name="afterMethod" is-config="true" duration-ms="1687" started-at="2018-10-12T14:06:06Z" finished-at="2018-10-12T14:06:07Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="logoutTest()[pri:0, instance:MavenDemo.MavenDemo.LogoutTest@61f5df]" name="logoutTest" duration-ms="0" started-at="2018-10-12T14:06:06Z" finished-at="2018-10-12T14:06:06Z">
+        <test-method status="PASS" signature="logoutTest()[pri:0, instance:MavenDemo.MavenDemo.LogoutTest@f6e879]" name="logoutTest" duration-ms="1" started-at="2018-10-12T15:32:21Z" finished-at="2018-10-12T15:32:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutTest -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:MavenDemo.MavenDemo.LogoutTest@61f5df]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-10-12T14:06:07Z" finished-at="2018-10-12T14:06:07Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:MavenDemo.MavenDemo.LogoutTest@f6e879]" name="afterMethod" is-config="true" duration-ms="224" started-at="2018-10-12T15:32:21Z" finished-at="2018-10-12T15:32:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:MavenDemo.MavenDemo.LogoutTest@f6e879]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-10-12T15:32:21Z" finished-at="2018-10-12T15:32:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
       </class> <!-- MavenDemo.MavenDemo.LogoutTest -->
       <class name="MavenDemo.MavenDemo.LoginTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:MavenDemo.MavenDemo.LoginTest@f6e879]" name="beforeTest" is-config="true" duration-ms="7484" started-at="2018-10-12T14:05:38Z" finished-at="2018-10-12T14:05:45Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:MavenDemo.MavenDemo.LoginTest@a097cc]" name="beforeTest" is-config="true" duration-ms="17974" started-at="2018-10-12T15:30:48Z" finished-at="2018-10-12T15:31:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:MavenDemo.MavenDemo.LogoutTest@61f5df]" name="beforeTest" is-config="true" duration-ms="7390" started-at="2018-10-12T14:05:45Z" finished-at="2018-10-12T14:05:53Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:MavenDemo.MavenDemo.LogoutTest@f6e879]" name="beforeTest" is-config="true" duration-ms="31856" started-at="2018-10-12T15:31:06Z" finished-at="2018-10-12T15:31:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:MavenDemo.MavenDemo.LoginTest@f6e879]" name="beforeMethod" is-config="true" duration-ms="6968" started-at="2018-10-12T14:05:53Z" finished-at="2018-10-12T14:06:00Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:MavenDemo.MavenDemo.LoginTest@a097cc]" name="beforeMethod" is-config="true" duration-ms="7312" started-at="2018-10-12T15:31:38Z" finished-at="2018-10-12T15:31:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:MavenDemo.MavenDemo.LoginTest@f6e879]" name="loginTest" duration-ms="0" started-at="2018-10-12T14:06:00Z" finished-at="2018-10-12T14:06:00Z">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:MavenDemo.MavenDemo.LoginTest@a097cc]" name="loginTest" duration-ms="16" started-at="2018-10-12T15:31:46Z" finished-at="2018-10-12T15:31:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:MavenDemo.MavenDemo.LoginTest@f6e879]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-10-12T14:06:00Z" finished-at="2018-10-12T14:06:00Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:MavenDemo.MavenDemo.LoginTest@a097cc]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-10-12T15:31:46Z" finished-at="2018-10-12T15:31:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
