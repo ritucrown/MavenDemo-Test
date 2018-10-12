@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26404" started-at="2018-10-12T08:30:06Z" finished-at="2018-10-12T08:30:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26404" started-at="2018-10-12T08:30:06Z" finished-at="2018-10-12T08:30:33Z">
+      <class name="MavenDemo.MavenDemo.LogoutTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:MavenDemo.MavenDemo.LogoutTest@14ba872]" name="beforeMethod" is-config="true" duration-ms="5827" started-at="2018-10-12T14:00:19Z" finished-at="2018-10-12T14:00:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="logoutTest()[pri:0, instance:MavenDemo.MavenDemo.LogoutTest@14ba872]" name="logoutTest" duration-ms="12" started-at="2018-10-12T14:00:25Z" finished-at="2018-10-12T14:00:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:MavenDemo.MavenDemo.LogoutTest@14ba872]" name="afterMethod" is-config="true" duration-ms="2376" started-at="2018-10-12T14:00:25Z" finished-at="2018-10-12T14:00:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:MavenDemo.MavenDemo.LogoutTest@14ba872]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-10-12T14:00:33Z" finished-at="2018-10-12T14:00:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- MavenDemo.MavenDemo.LogoutTest -->
+      <class name="MavenDemo.MavenDemo.LoginTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:MavenDemo.MavenDemo.LoginTest@6ba0ac]" name="beforeTest" is-config="true" duration-ms="6230" started-at="2018-10-12T14:00:06Z" finished-at="2018-10-12T14:00:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:MavenDemo.MavenDemo.LogoutTest@14ba872]" name="beforeTest" is-config="true" duration-ms="6313" started-at="2018-10-12T14:00:13Z" finished-at="2018-10-12T14:00:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:MavenDemo.MavenDemo.LoginTest@6ba0ac]" name="beforeMethod" is-config="true" duration-ms="5584" started-at="2018-10-12T14:00:27Z" finished-at="2018-10-12T14:00:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:MavenDemo.MavenDemo.LoginTest@6ba0ac]" name="loginTest" duration-ms="14" started-at="2018-10-12T14:00:33Z" finished-at="2018-10-12T14:00:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:MavenDemo.MavenDemo.LoginTest@6ba0ac]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-10-12T14:00:33Z" finished-at="2018-10-12T14:00:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- MavenDemo.MavenDemo.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
