@@ -102,4 +102,14 @@ public class Base {
 			throw new RuntimeException("Logout URL not Found in properties file");
 		}
 	}
+
+	public String getExcelFilePath() {
+		// TODO Auto-generated method stub
+		String excelPath = properties.getProperty("excel_file");
+		if (excelPath!=null) {
+			return excelPath;
+		} else {
+			throw new RuntimeException("Excel file not found");
+		}
+	};
 }
